@@ -5,7 +5,7 @@
 
 - 📫 How to reach me : [Linked in](https://www.linkedin.com/in/jyoti-panda-7202952b7/)  or  [Email](jyotipanda6097531@gmail.com)
 - ### Featured Projects
-- [Crop Yeild Prediction](link) - 
+- [Crop Yeild Prediction](link) - Predicts crop yields based on environmental and agricultural data, helping farmers and agronomists make informed decisions to optimize crop production and resource allocation.
 - [Kidney Disease Prediction](link) - Brief description of the project
 
 <!---
